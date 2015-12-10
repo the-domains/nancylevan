@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[The Art of Nancy Levan]]></title>
         <description><![CDATA[The Art of Nancy Levan]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/nancylevan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Dec 2015 19:36:06 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 10 Dec 2015 19:41:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nancylevan/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Photoshop Has Four Different Healing Brushes Now... Here's How to Use Them]]></title>
+            <description><![CDATA[<article><h1>Photoshop Has Four Different Healing Brushes Now... Here's How to Use Them</h1><p>Photoshop 2015.1, released earlier this month, has a surprise that wasn't promoted very well - you had to go digging to find it: the new version introduced a new real-time healing brush algorithm. When I came across it, my eyes lit up.</p><img src="http://petapixel.com/assets/uploads/2015/12/thehealingbrushfeat.jpg"></article>]]></description>
+            <link>http://petapixel.com/2015/12/10/photoshop-has-four-different-healing-brushes-now-heres-how-to-use-them/</link>
+            <guid isPermaLink="false">774a4d32-d6f9-49bf-8bfb-9badf8d795fd</guid>
+            <pubDate>Thu, 10 Dec 2015 19:41:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Slim Strap by Custom SLR Features a Nifty Quick-Adjust Slider]]></title>
             <description><![CDATA[<article><h1>The Slim Strap by Custom SLR Features a Nifty Quick-Adjust Slider</h1><p>Over the past 5 years, the San Francisco-based company Custom SLR has successfully launched 5 different camera products that all started with Kickstarter campaigns (the first was the C-Loop in 2010). Now the company has announced its sixth project: the Slim Strap.</p><img src="http://petapixel.com/assets/uploads/2015/12/quickadjustsliderfeat.jpg"></article>]]></description>
