@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[The Art of Nancy Levan]]></title>
         <description><![CDATA[The Art of Nancy Levan]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/nancylevan/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jan 2016 04:49:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Jan 2016 04:56:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nancylevan/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Become a Featured Artist]]></title>
+            <description><![CDATA[<article><h1>Become a Featured Artist</h1><p>Calls for featured artists happen several times per year. The next opportunity to apply to be featured will be Summer, 2016. Interested in receiving an invitation for the next Call for Artists? Please become a subscriber. Talk about results!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/863c598a024c7e38c76ea2d62aa92fad761bc94c.jpg"></article>]]></description>
+            <link>http://www.artsyshark.com/become-a-featured-artist/</link>
+            <guid isPermaLink="false">0e1f18ad-4bfb-493c-9b29-7ef8657506d1</guid>
+            <pubDate>Tue, 26 Jan 2016 04:55:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Title]]></title>
             <description><![CDATA[<article><h1>The Title</h1><p>Typing my text here as I'm directed to test this out.</p></article>]]></description>
-            <link>undefinedthe-title/index.html</link>
+            <link>https://thegrid.ai/nancylevan/the-title/index.html</link>
             <guid isPermaLink="false">4111148b-c6d1-42d2-b935-4d860e7f61e4</guid>
             <pubDate>Tue, 26 Jan 2016 04:49:30 GMT</pubDate>
         </item>
